@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Para hacer correr el proyecto se necesita realizar lo siguiente:
+
+- Instalar Node LTS
+- Revisar si se tiene instalado npm y npx con los comandos "npm -v" y "npx -v"
+- Revisar si se tiene instalado create-react-app con el comando "npm list -g --depth=0"
+- Y si no se tiene instalado create-react-app usar el comando "npm i -g create-react-app"
+- Instalar git, link de recurso: https://youtu.be/pyJ0ChbbwO8
+- Clonar el repositorio en tu local.
